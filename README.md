@@ -5,7 +5,7 @@
 
 Oyun içi oynanış videosunu buradan izleyebilirsiniz:
 
-[![Gameplay İzle](https://img.youtube.com/vi/1cR40e_EXP4/0.jpg)](https://youtu.be/1cR40e_EXP4)
+[![Gameplay İzle](https://img.youtube.com/vi/1cR40e_EXP4/0.jpg)](https://youtu.be/1cR4Oe_EXP4)
 
 ---
 
